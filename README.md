@@ -9,6 +9,6 @@ Passo a passo para rodar localmente:
 
 -Rodar arquivo SQL
 
--Rodar executável encontrado dentro da pasta Executável
+-Rodar no netbeans
 
 
