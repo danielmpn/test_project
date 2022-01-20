@@ -31,8 +31,8 @@ public class ClienteDAO {
                 || cliente.getEmail().trim().equals("")) {
             JOptionPane.showMessageDialog(null, "Existem campos vazios");
             return;
-        } else if (cliente.getCpf().length() < 14
-                || cliente.getTelefone().length() < 15) {
+        } else if (cliente.getCpf().trim().length() < 14
+                || cliente.getTelefone().trim().length() < 15) {
             JOptionPane.showMessageDialog(null, "Verifique se preencheu os campos corretamente");
             return;
         } else if (cpfExists(cliente.getCpf())) {
