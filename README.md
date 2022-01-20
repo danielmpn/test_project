@@ -9,6 +9,13 @@ Passo a passo para rodar localmente:
 
 -Rodar arquivo SQL
 
--Rodar no netbeans
+-Rodar no netbeans apóes alterar o arquivo
+
+OBS: O executável funcionará se o banco estiver da seguinte forma:
+
+USER= 'root'
+PASS= ''
+DB= 'db_edamatec_teste'
+
 
 
