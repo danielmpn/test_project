@@ -9,7 +9,7 @@ Passo a passo para rodar localmente:
 
 -Rodar arquivo SQL
 
--Rodar no netbeans apóes alterar o arquivo
+-Rodar no netbeans após alterar o arquivo
 
 OBS: O executável funcionará se o banco com esses dados:
 
